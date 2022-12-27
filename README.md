@@ -3,7 +3,7 @@ Hello, Im Thomas 👋🏻<br>I’m currently working on a AWS Python project<br>
 
 
 # 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/thomas-schneider-4b11ab204?trk=people-guest_people_search-card)  Thom
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/thomas-schneider-4b11ab204?trk=people-guest_people_search-card) Thom
 
 
 
