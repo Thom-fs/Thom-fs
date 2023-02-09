@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, Im Thomas 👋🏻<br>I’m currently working on a AWS Python project<br>for an insurance brokerage company<br>We are building their mobile app and<br>aslo their support back office from scratch
+Hello, Im Thomas 👋🏻<br> <br> I’m currently working on a AWS Python project<br>for an insurance brokerage company<br>We are building their mobile app and<br>aslo their support back office from scratch
 
 Moreover, I am currently working <br>
 on a side project as a full-stack MERN developer.
